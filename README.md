@@ -4,7 +4,7 @@
 
 ### [5월 첫째주, 1주차] : java 
 
-26.05 자바에 대하여 ([상세 내역 링크](https://github.com/kakao-cloud-edu-5/til-template/blob/main/May/2026-05-13))
+26.05 자바에 대하여 ([상세 내역 링크](https://github.com/100-hours-a-week/pappus-til/blob/main/May))
 
 ### [n월 n째주, n주차] : 간략 주제 작성 
 
