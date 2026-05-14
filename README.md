@@ -4,7 +4,7 @@
 
 ### [5월 첫째주, 1주차] : java 
 
-26.05 세부 주제 1주차 작성 ([상세 내역 링크](https://github.com/kakao-cloud-edu-5/til-template/blob/main/May))
+26.05.13 자바의 특징 ([상세 내역 링크](https://github.com/kakao-cloud-edu-5/til-template/blob/main/May/2026-05-13))
 
 ### [n월 n째주, n주차] : 간략 주제 작성 
 
